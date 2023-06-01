@@ -8,7 +8,7 @@ I'm Studying Bachelor of Business Administration Program in Information System a
 
 * 🌍  I'm based in Bangkok Thailand
 * 🧠  I'm learning React.js And ASP.NET Core MVC
-* ⚡  I'M Looking for first Job
+* ⚡  I'm a fresh Graduate Looking for my First Job.
 
 ### Skills
 
