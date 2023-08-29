@@ -8,7 +8,6 @@ I'm Studying Bachelor of Business Administration Program in Information System a
 
 * 🌍  I'm based in Bangkok Thailand
 * 🧠  I'm learning React.js And ASP.NET Core MVC
-
 ### Skills
 
 
